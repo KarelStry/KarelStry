@@ -2,8 +2,8 @@
 
 ## Profile
 Currently a 3rd year BS Applied Mathematics student @ CWRU in Cleveland, OH with minors in Physics and Computer Science. I am currently working on a long term project @ CWRU Quants on portfolio rebalancing using sentiment analysis.  <br />  <br />
-My primary interests lie in Numerical Analysis, Scientific Computing, the Mathematics of Data Science, and Statistical Computing.  <br />  <br />
-Outside of school and work I enjoy perusing Art/History museums, reading, and learning about mathematical physics.  <br />  <br />
+My primary interests lie in Numerical Analysis, Scientific Computing, Mathematics of Data Science, Statistical Computing, Computational Physics, and Optimization.  <br />  <br />
+Outside of school and work I enjoy going to Art/History museums, reading, and learning about mathematical physics.  <br />  <br />
 
 
 ## Current and Past Works both Independent and Group 
